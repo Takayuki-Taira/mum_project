@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Takayuki-Taira/mum_project/static/css/main.e14d7b49.css",
-    "main.js": "/Takayuki-Taira/mum_project/static/js/main.9a839b69.js",
-    "index.html": "/Takayuki-Taira/mum_project/index.html",
-    "main.e14d7b49.css.map": "/Takayuki-Taira/mum_project/static/css/main.e14d7b49.css.map",
-    "main.9a839b69.js.map": "/Takayuki-Taira/mum_project/static/js/main.9a839b69.js.map"
+    "main.css": "/mum_project/static/css/main.e14d7b49.css",
+    "main.js": "/mum_project/static/js/main.9a839b69.js",
+    "index.html": "/mum_project/index.html",
+    "main.e14d7b49.css.map": "/mum_project/static/css/main.e14d7b49.css.map",
+    "main.9a839b69.js.map": "/mum_project/static/js/main.9a839b69.js.map"
   },
   "entrypoints": [
     "static/css/main.e14d7b49.css",
