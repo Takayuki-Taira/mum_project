@@ -2,7 +2,7 @@
   "name": "homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Takayuki-Taira.github.io/homepage",
+  "homepage": "https://takayuki-taira.github.io/mum_project/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
